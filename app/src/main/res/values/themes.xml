@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ExifFixer" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#FF6200EE</item>
+        <item name="colorPrimaryVariant">#FF3700B3</item>
+        <item name="colorOnPrimary">#FFFFFFFF</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#FF03DAC5</item>
+        <item name="colorSecondaryVariant">#FF018786</item>
+        <item name="colorOnSecondary">#FF000000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>

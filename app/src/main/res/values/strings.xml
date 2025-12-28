@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Exif Fixer</string>
+    <string name="app_explanation">This tool fixes the "Timeline" issue in Gallery apps by syncing the file\'s \'Last Modified\' date with its internal EXIF/Metadata date.</string>
+    <string name="btn_select_folder">SELECT FOLDER</string>
+    <string name="btn_fix_dates">FIX DATES</string>
+    <string name="stats_placeholder">No folder selected</string>
+    <string name="log_ready">System Ready. Please select a folder...</string>
+    <string name="toast_permission">Please grant \'All Files Access\' permission to continue.</string>
+</resources>
