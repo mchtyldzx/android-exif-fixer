@@ -8,7 +8,7 @@ restores the correct `Last Modified` date using internal **EXIF metadata** (for 
 
 
 
-##  🛠️ Build & Run
+##  🛠️ Build & Run (For Developers)
 
 ### Requirements
 
@@ -53,3 +53,13 @@ restores the correct `Last Modified` date using internal **EXIF metadata** (for 
     - Updates the file system timestamp (`File.setLastModified`).
     - Updates the Android `MediaStore` database to force the Gallery to refresh.
     - Triggers the system `MediaScanner`.
+
+---
+
+## 📥 Download (APK)
+
+If you just want to use the app without coding:
+
+1.  Go to the **[Releases](../../releases)** page of this repository.
+2.  Download the latest `.apk` file.
+3.  Install it on your Android device.
